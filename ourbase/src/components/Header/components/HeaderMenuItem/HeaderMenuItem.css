@@ -1,0 +1,14 @@
+.Item {
+    padding: 35px 25px 0 25px;
+
+    color: #a4aab9;
+    font-weight: 600;
+
+    cursor: pointer;
+
+    transition: color 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+.Item:hover {
+    color: #6f7991;
+}
