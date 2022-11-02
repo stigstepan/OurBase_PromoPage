@@ -1,0 +1,1 @@
+export const promoText = 'Делаем апельсиновые соки';

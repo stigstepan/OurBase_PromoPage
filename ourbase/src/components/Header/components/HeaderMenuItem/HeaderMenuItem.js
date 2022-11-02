@@ -1,5 +1,5 @@
 import { useCallback } from 'react'
-import { openPage } from '../../../utils'
+import { openPage } from '../../../../utils'
 import './HeaderMenuItem.css'
 
 
