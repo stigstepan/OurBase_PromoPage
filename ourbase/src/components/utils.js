@@ -1,3 +1,3 @@
-export function openPage(path) {
+export function openPage() {
     // todo: open Page
 }

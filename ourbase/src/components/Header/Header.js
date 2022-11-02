@@ -5,7 +5,7 @@ import './Header.css'
 export function Header () {
     return (
     <div className="Header">
-        {menuItems.map(item=> <HeaderMenuItem title={item.title} />)}
+        {menuItems.map(item => <HeaderMenuItem key={item.title} title={item.title} />)}
     </div>
     );
 }
