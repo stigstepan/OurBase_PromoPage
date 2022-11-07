@@ -1,7 +1,7 @@
 import { promoText } from './Promo.const';
 import './Promo.css';
-import logo from '../../assets/Fanta_Logo_2008.png'
-import promoImage from '../../assets/fanta.jpeg'
+import logo from '../../assets/mainLogo.png'
+import promoImage from '../../assets/blueBackgroundWithLogo.jpg'
 
 export function Promo () {
     return (
